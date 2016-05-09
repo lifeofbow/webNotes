@@ -1,2 +1,3 @@
 # webNotes
-some web notes and web examples.
+一些web的学习笔记.
+
